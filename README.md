@@ -4,6 +4,10 @@ Hello, my name is Johni Kim. I have been designing, developing, managing, modeli
 
 I believe that a good query, a good data structure, a good database design, a good application, a good system architecture will open up possibilities.  Your solution should not only solve the problem/question at hand, but it should bring about new ideas.
 
+### Recent Certifications
+- *Data Science Professional Certificate*, IBM - Coursera, October 2021, [https://bit.ly/3Beffwn](https://bit.ly/3Beffwn)
+- *Data Science Foundation Specialization*, IBM - Cousera, September 2021, [https://bit.ly/33bNNTs](https://bit.ly/33bNNTs)
+
 ## Shout Outs!
 <details><summary><strong>Shout Outs!</strong></summary> 
 Below is a list of people and organizations that have provided me with inspiration, guidance or useful knowlege.
