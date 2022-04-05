@@ -27,6 +27,24 @@ I will be continually adding to this list.
 
 | Contact Method |  |
 | --- | --- |
-| Professional Email | johni_kim@yahoo.com |
-| LinkedIn | https://www.linkedin.com/in/johnikim/ |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:johni_kim@yahoo.com"><img src="https://i0.wp.com/www.thearcppr.org/wp-content/uploads/2015/03/email-icon-300.png" alt="drawing" width="50"/>&nbsp;&nbsp; | johni_kim@yahoo.com |
+| &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/johnikim/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp; | https://www.linkedin.com/in/johnikim/ |
 
+
+<!---
+<a href="https://www.youtube.com/c/ImportData1">
+  <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<!---
+<a href="https://medium.com/@importdata">
+  <img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<!---
+<a href="https://twitter.com/ImportData1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<!---
+<a href="https://www.linkedin.com/in/johnikim/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+--->
+<!--- 
+<a href="https://www.kaggle.com/importdata"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+--->
