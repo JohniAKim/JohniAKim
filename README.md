@@ -4,6 +4,8 @@ Hello, my name is Johni Kim. I have been designing, developing, managing, modeli
 
 I believe that a good query, a good data structure, a good database design, a good application, a good system architecture will open up possibilities.  Your solution should not only solve the problem/question at hand, but it should bring about new ideas.
 
+Note: I have recently started adding projects to GitHub. All my previous work utilized repositories that are confidential, or they are in a different type of repository (VSS, SVN, custom libraries).  As I find time I will be curating these and adding appropriate and useful projects.  Some of the framework is already laid out under [Personal Projects](https://github.com/JohniAKim/PersonalProjects).
+
 ### Recent Certifications
 - *Data Science Professional Certificate*, IBM - Coursera, October 2021, [https://bit.ly/3Beffwn](https://bit.ly/3Beffwn)
 - *Data Science Foundation Specialization*, IBM - Cousera, September 2021, [https://bit.ly/33bNNTs](https://bit.ly/33bNNTs)
