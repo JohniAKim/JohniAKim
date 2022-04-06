@@ -7,8 +7,8 @@ I believe that a good query, a good data structure, a good database design, a go
 Note: I have recently started adding projects to GitHub. All my previous work utilized repositories that are confidential, or they are in a different type of repository (VSS, SVN, custom libraries).  As I find time I will be curating these and adding appropriate and useful projects.  Some of the framework is already laid out under [Personal Projects](https://github.com/JohniAKim/PersonalProjects).
 
 ### Recent Certifications
-- *Data Science Professional Certificate*, IBM - Coursera, October 2021, [https://bit.ly/3Beffwn](https://bit.ly/3Beffwn)
-- *Data Science Foundation Specialization*, IBM - Cousera, September 2021, [https://bit.ly/33bNNTs](https://bit.ly/33bNNTs)
+- ***Data Science Professional Certificate***, IBM - Coursera, October 2021, [https://bit.ly/3Beffwn](https://bit.ly/3Beffwn)
+- ***Data Science Foundation Specialization***, IBM - Cousera, September 2021, [https://bit.ly/33bNNTs](https://bit.ly/33bNNTs)
 
 ## Shout Outs!
 <details><summary><strong>Shout Outs!</strong></summary> 
