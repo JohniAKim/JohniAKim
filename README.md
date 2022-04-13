@@ -30,6 +30,10 @@ I will be continually adding to this list.
   
 </details>
 
+[![Colt's github stats](https://github-readme-stats.vercel.app/api?username=JohniAKim&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohniAKim)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact Me
 
 | Contact Method |  |
